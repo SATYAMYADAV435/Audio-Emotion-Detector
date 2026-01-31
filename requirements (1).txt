@@ -1,0 +1,13 @@
+torch
+torchaudio
+librosa
+numpy
+matplotlib
+scipy
+scikit-learn
+streamlit
+soundfile
+python_speech_features
+transformers
+openai-whisper
+glob2
